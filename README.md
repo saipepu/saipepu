@@ -1,5 +1,5 @@
 
-**  Hey there, I'm [Your Name]!**
+## Hey there, I'm [Your Name]! ##
 
  Here's a glimpse of what makes me tick in the world of code:
 
