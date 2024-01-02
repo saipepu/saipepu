@@ -11,6 +11,6 @@
 - I like retrospective meeting. In the world full of problems, we ought to share not only our problems, but also how did we solve it or how we can solve it better.
 
 ## 📫 Let's Connect
-- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/pe-pu-6746441b6/)
+- **LinkedIn:** [pepu-linkedIn](https://www.linkedin.com/in/pe-pu-6746441b6/)
 
 Feel free to explore, contribute, and let's build something amazing together! 🚀✨
