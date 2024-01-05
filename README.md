@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm PEPU
 
-- 👨🏻‍💻I am a **Programmer**. I like coding project especially **Frontend**.
+- 👨🏻‍💻I am a **Programmer**. I like coding project especially **Web Development**.
 - ☕️I am a **coffee lover**. I enjoy brainstorming and building project while enjoying my coffee in a chill cafe.
 - 🧩I am a **problem solver**. I love the process of breaking down problem into pieces and collaborate with different ideas to find the best solution.
 - 🏋🏻I love **sports**. GYM 4x/week. When I am not coding, you can find me at Swimming, Running, Boxing and Football.
