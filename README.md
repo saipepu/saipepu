@@ -8,7 +8,7 @@
 <b>I am a full stack javascript developer.</b>
 
 ## 🎯 Facts
-- I like retrospective meeting. In the world full of problems, we ought to share not only our problems, but also how did we solve it or how we can solve it better.
+- I like retrospective meeting. In the world full of problems, we ought to share not only our problems, but also how did we solve them or how can we do better in the future.
 
 ## 📫 Let's Connect
 - **LinkedIn:** [pepu-linkedIn](https://www.linkedin.com/in/pe-pu-6746441b6/)
