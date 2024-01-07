@@ -13,4 +13,4 @@
 ## 📫 Let's Connect
 - **LinkedIn:** [pepu-linkedIn](https://www.linkedin.com/in/pe-pu-6746441b6/)
 
-Feel free to explore, contribute, and let's build something amazing together! 🚀✨
+Let's build something amazing together! 🚀✨
