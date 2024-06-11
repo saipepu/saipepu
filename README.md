@@ -15,4 +15,6 @@
 
 Let's build something amazing together! 🚀✨
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=saipepu&theme=light)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saipepu&show_icons=true&theme=light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipepu&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
