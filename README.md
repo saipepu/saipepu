@@ -14,3 +14,5 @@
 - **LinkedIn:** [pepu-linkedIn](https://www.linkedin.com/in/pe-pu-6746441b6/)
 
 Let's build something amazing together! 🚀✨
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipepu&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
