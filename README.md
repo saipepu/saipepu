@@ -18,3 +18,5 @@ When I'm not coding, you might find me:
 ---
 
 _"The journey of a thousand miles begins with a single step."_ – Lao Tzu  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saipepu&show_icons=true&count_private=true)
